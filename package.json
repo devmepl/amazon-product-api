@@ -1,6 +1,6 @@
 {
     "name": "mepl-amazon-buddy",
-    "version": "2.2.45",
+    "version": "2.2.46",
     "description": "Amazon Scraper. You can scrape products from amazon search result and you can also scrape reviews from a specific product",
     "main": "./lib/index.js",
     "bin": {
@@ -15,6 +15,7 @@
         "cheerio": "^1.0.0-rc.3",
         "json2csv": "^4.5.3",
         "moment": "^2.27.0",
+        "nodemon": "^3.1.0",
         "ora": "^4.0.2",
         "request": "^2.88.0",
         "request-promise": "^0.0.1",
